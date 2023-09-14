@@ -25,10 +25,8 @@ export default function About() {
         </p>
       </div>
       
-      <div className='' style={{ overflow: 'hidden' }}>
+      <div className=''>
       <img src={slider1} className='w-[400px] sm:w-[500px] object-contain' alt="Slider 1" />
-        
-
       </div>
     </div>
   );
